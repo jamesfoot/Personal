@@ -14,7 +14,7 @@
     }
     // [END formprocessing]
     ?>
-    <h1>Hello James 1</h1>
+    <h1>Hello James</h1>
     <form action="/sign" method="post">
       <div><textarea name="content" rows="3" cols="60"></textarea></div>
       <div><input type="submit" value="Sign Guestbook"></div>
